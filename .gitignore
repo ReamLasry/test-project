@@ -1,5 +1,5 @@
-.gitignore
 .Ds_Store
+.gitignore
 useres.txt
 secrets.txt
 
