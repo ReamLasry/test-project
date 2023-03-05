@@ -1,8 +1,0 @@
-.Ds_Store
-newfile.txt
-useres.txt
-secrets.txt
-
-#SECRET USERES LIST AND ALEK SECRETS
-#*.txt === ALL TXT FILES WILL BE IGNORED
-#git rm --cached -r . === empty the local branch
