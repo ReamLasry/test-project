@@ -1,4 +1,5 @@
 .Ds_Store
+.gitignore
 newfile.txt
 useres.txt
 secrets.txt
